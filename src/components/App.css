@@ -1,0 +1,37 @@
+.page {
+    height: 100%;
+    background-color: rgb(24, 0, 236);
+    text-align: center;
+  }
+
+  .box{
+      text-align: center;
+      height: 800px;
+      display: flex;
+  }
+
+  .box-container {
+    background: rgb(8, 8, 8);
+    margin: auto;
+    margin-top: 100px;
+    width: 400px;
+    border-radius: 15px;
+    padding: 20px 10px;
+    color: white;
+    border: 3px solid rgb(36, 110, 194);
+  }
+  .butn {
+    border: 1px solid white;
+    background: rgb(70, 8, 240);
+    border-radius: 5px;
+    padding: 0.5em;
+    color: white;
+    margin: 0.5em;
+  }
+  .header-container {
+    margin: 0.5em;
+    font-size: 2em;
+    text-align: center;
+  }
+
+  
